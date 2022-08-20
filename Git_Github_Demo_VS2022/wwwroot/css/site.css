@@ -64,13 +64,13 @@ a, .btn-link {
     }
 
 .p1 {
-    font-family: "DynaPuff", sans-serif; /* Sofia ist von Google Fonts */
+    font-family: "DynaPuff", sans-serif; /* Ist von Google Fonts mit Link unter _Layout.cshtml*/
     color: red;
     font-size: 30px;
 }
 
 .p2 {
-    font-family: "Rubik Maze", sans-serif; /*ist von Google Fonts */
+    font-family: "Rubik Maze", sans-serif; /*Ist von Google Fonts */
     color: blue;
     font-size: 30px;
 }
